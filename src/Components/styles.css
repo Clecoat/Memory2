@@ -1,0 +1,51 @@
+.remainder {
+  float: 'left';
+}
+
+.duration {
+  float: 'right';
+}
+
+.lives {
+  margin-right: auto;
+}
+
+.score {
+  margin-left: auto;
+}
+
+.message {
+  margin: auto;
+}
+
+.footer-container {
+  display: flex;
+  padding: 1rem;
+}
+
+.card {
+  padding: 2rem;
+  border-radius: 5px;
+}
+
+.raised {
+  box-shadow: 3px 3px 7px 3px lightgray;
+}
+
+.margin-small {
+  margin: 1rem;
+}
+
+.game-tile {
+  margin: 1rem;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.concealed {
+  background-color: black;
+  border: 1px solid lightgray;
+}
